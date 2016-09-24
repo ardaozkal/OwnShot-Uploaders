@@ -10,7 +10,7 @@ Go [here](https://github.com/ardaozkal/OwnShot-Uploaders/releases)
 
 [QuadFile](https://file.quad.moe) (Note: quadfile removes files after 7 days of no activity) 
 
-[ImageBin](https://imagebin.com)
+[ImageBin](https://imagebin.ca)
 
 [Imgur](https://imgur.com)
 
